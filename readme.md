@@ -18,5 +18,5 @@
  >-It took me 4 hour to complete this project 
 
  **Screenshot**
- ![](../liveproject-1/screenshot/Screenshot%20%20project%201.png)
+ ![](./screenshot/Screenshot%20%20project%201.png)
  
