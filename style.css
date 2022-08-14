@@ -105,3 +105,83 @@ span{
 body{
     overflow: hidden;
 }
+@media screen and (max-width:500px){
+    li{
+       font-size: 40px;
+       display: flex;
+       justify-content: center;
+       flex-direction: row;
+       align-items: center;
+       flex-wrap: wrap;
+    }
+    .hero-heading{
+        text-align: center;
+        width: 200vw;
+        font-size: 70px;
+    }
+    .hero-description{
+    text-align: center;
+    width: 230vw;
+    font-size: 40px;
+    margin-top: 20px;
+    }
+    button{
+        text-align: center;
+        font-size: 40px;
+    }
+    .button-email{
+        font-size: 50px;
+        margin: 50px 1px;
+        margin-left: 100px;
+
+    }
+    .button-join{
+        font-size: 60px;
+        margin-left: 110px;
+    }
+     .hero{
+        width: 470px;
+        height:470px;
+       position: relative;
+
+     }
+     .square img{
+      position: relative;
+      top: 200px;
+      left: -20px;
+      height: 500px;
+      width: 500px;
+     }
+     .search-icon{
+        display: none;
+     }
+     .nav-button{
+        display: none;
+     }
+     span img{
+        width: 22%;
+        margin: 1px 5x;
+     }
+     .contact-heading{
+        font-size: 80px;
+     }
+     .globe img{
+      position: relative;
+      left: 550px;
+      top: 60px;
+     }
+     .star2{
+        position: relative;
+        left: 1200px;
+    }
+     .star{
+        display: none;
+     }
+    .navbar-container{
+        margin-top: 30px;
+    }
+    body{
+        overflow: hidden;
+    }
+}
+    
